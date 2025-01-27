@@ -24,5 +24,3 @@ A lightweight and secure password manager for your convenience. This tool helps 
 ## Requirements  
 - A Windows operating system (x64).  
 - No additional software needed.  
-
-Start securing your passwords today with **SicuroShield**!  
