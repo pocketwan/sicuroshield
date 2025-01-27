@@ -26,19 +26,4 @@ A lightweight and secure password manager for your convenience. This tool helps 
 - A Windows operating system (x64).  
 - No additional software needed.  
 
----
-
-## Contributing  
-
-Contributions are welcome! If you have ideas or issues, please:  
-- Open an issue on this repository.  
-- Suggest features or report bugs.  
-
----
-
-## 💬 Feedback  
-If you have any feedback or suggestions, feel free to open an issue or contact me directly at (+27)637169755.  
-
----
-
 Start securing your passwords today with **SicuroShield**!  
