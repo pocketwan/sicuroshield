@@ -17,7 +17,7 @@ A lightweight and secure password manager for your convenience. This tool helps 
 
 ### Usage  
 1. Run the `.exe` file.  
-2. Follow the on-screen instructions to manage your passwords.  
+2. Follow the on-screen instructions to install the software and begin securing your passwords.  
 
 ---
 
