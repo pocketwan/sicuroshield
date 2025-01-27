@@ -1,4 +1,4 @@
-# Sicuroshield
+# SicuroShield
   
 A lightweight and secure password manager for your convenience. This tool helps you store and manage your passwords safely, all in one place.  
 
