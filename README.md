@@ -6,7 +6,6 @@ A lightweight and secure password manager for your convenience. This tool helps 
 
 ## Features  
 - **Strong Encryption**: Keeps your passwords secure.  
-- **Password Generator**: Generate strong, unique passwords.  
 - **Offline Support**: Fully functional without internet access.  
 ---
 
